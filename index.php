@@ -16,17 +16,9 @@
             <option>-</option>
             <option>x</option>
             <option>:</option>
-</selecbt>
+</select>
 
 
-    <style>
-        body {
-            background-image: url('bjir.jpg'); /
-            background-size: cover; /* Mengatur ukuran gambar agar menutupi seluruh halaman */
-            background-position: center; /* Mengatur posisi gambar di tengah */
-            background-repeat: no-repeat; /* Menghindari pengulangan gambar */
-        }
-    </style>
-
+    
 
             
